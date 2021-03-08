@@ -2,7 +2,9 @@
 #define _SORTING_H_
 #include <stdio.h>
 #include <stdlib.h>
+
 #define SIZE 10
+
 void displaySort(int * num, int size);
 void bubbleSort(int * num, int size);
 void selectSort(int * num, int size);
